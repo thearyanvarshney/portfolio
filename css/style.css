@@ -58,8 +58,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-overflow-y: auto;
-  overflow-x: scroll;}
+  overflow-y: scroll;}
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
