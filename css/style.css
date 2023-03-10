@@ -57,8 +57,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
-  overflow-y: scroll;}
+  background-color: #fff; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -8518,7 +8517,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           color: #000000;
           font-weight: 600;
-          font-size: 14px;
+          font-size: 26px;
           letter-spacing: 3px;
           text-transform: uppercase;
           color: #ffbd39; }
@@ -8532,7 +8531,10 @@ h1, h2, h3, h4, h5,
           font-weight: 800; }
           .owl-carousel.home-slider .slider-item .slider-text h1 span {
             font-weight: 800;
-            color: #ffbd39; }
+            color: #e83e8c; }
+          .owl-carousel.home-slider .slider-item .slider-text h3 span {
+            font-weight: 800;
+            color: whitesmoke; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
               color: #fff;
