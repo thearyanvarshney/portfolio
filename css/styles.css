@@ -10,6 +10,7 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -102,6 +103,7 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  cursor: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAADiW0vQAAAACXBIWXMAAB7CAAAewgFu0HU+AAABK0lEQVRIDbXBP0rDQBCF4a8EXtGP0Bq+0xkG0ySmhM2wC9MUI7TcyMZGOJDBwM5YqSEu6yzTceFqlOxCtwQ20UslDJKm0iF6gN3/Av6XAMqT+jkdmqUoZddrwERkzFc1UA7BYUoKkc05b4K8Q6KZhtKCVBwH3mMQQI2wGArbYPcTnV8PwK9NcwFehZ8zJINkC0L4gW8tHEvxA7AAAAAElFTkSuQmCC') 16 16, auto;
 }
 
 hr {
