@@ -93,7 +93,6 @@
 }
 
 body {
-  cursor: url('https://thearyanvarshney.github.io/portfolio/path/to/your/black-cursor.png'), auto;
   margin: 0;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
